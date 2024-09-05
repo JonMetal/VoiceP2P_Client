@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VoiceP2P_Client.props" />
+</Project>
